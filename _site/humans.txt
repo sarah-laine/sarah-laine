@@ -1,0 +1,11 @@
+/* TEAM */
+Creator: Sarah Laine
+Contact: sarah@pastryperfectionistsapprentice.ca
+Twitter: 
+Location: 
+                           
+
+/* SITE */                         
+Last update: 2018-09-26
+Standards: HTML, SCSS, Jekyll                        
+Software: git
